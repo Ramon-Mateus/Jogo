@@ -5,4 +5,4 @@ O jogo consiste em você ( o foguete ) sobreviver o máximo de tempo possível a
 Além disso, é importante lembrar que quanto mais você abate os cometas mais cometas vão surgindo e a dificuldade só aumenta.
 Para jogar você usa os botões de seta ( movimentação do foguete ) do seu teclado e a tecla space ( botão que você vai usar para disparar os projéteis que saem do foguete e servem para abater os cometas ).
 
-Sobreviva o máximo de tempo possivel e divirta-se.
+Sobreviva o máximo de tempo possível e divirta-se.
